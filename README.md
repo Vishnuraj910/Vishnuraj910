@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a full stack developer who is working as Staff Software Engineer / Solution Architect for Visa<br>I build multiple soltuions with AI integrated to assist users to give interesting recommendations using transaction data on VisaNet<br>Really excited about the products which will come up with the advancement of AI in personalization and the users will not even realises they are using it <br>I love building open source libraries and publish on npm to help the community that made me who I'm<br>Started my career in 2012 as a game developer and moved to hybrid apps using Ionic and React Native later ended up being a MERN stack engineer who delivered multiple microservices on AWS and Visa Cloud.
+Staff Software Engineer and Solution Architect 
+
 
 
 ## 🌐 Socials:
