@@ -1,5 +1,5 @@
 # 💫 About Me:
-Staff Software Engineer and Solution Architect 
+Staff Software Engineer/Full Stack Tech Lead and Solution Architect 
 
 
 
