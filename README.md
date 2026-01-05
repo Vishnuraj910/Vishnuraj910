@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Staff Software Engineer/ Full Stack Tech Lead and Solution Architect
+### Full Stack Tech Lead and Cloud Solution Architect
 
 Scrum certified Engineering lead with 5 years of leadership experience and 13 years of development experience, leading high-performing engineering teams to design, deliver, and scale enterprise solutions for fintech, aviation, mobile, and cloud-based platforms. Expert in managing cross-functional teams, hiring, driving technical roadmaps, and executing digital transformations aligned with business goals.
 
