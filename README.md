@@ -1,7 +1,9 @@
 # 💫 About Me:
-Staff Software Engineer/ Full Stack Tech Lead and Solution Architect 
+### Staff Software Engineer/ Full Stack Tech Lead and Solution Architect
 
+Scrum certified Engineering lead with 5 years of leadership experience and 13 years of development experience, leading high-performing engineering teams to design, deliver, and scale enterprise solutions for fintech, aviation, mobile, and cloud-based platforms. Expert in managing cross-functional teams, hiring, driving technical roadmaps, and executing digital transformations aligned with business goals.
 
+Proficient in full-stack development (MERN, NextJS, Tanstack, Angular, Ionic), AWS cloud architecture, AI/ML (Generative AI and NLP), and security-first practices. Proven record of mentoring engineers and building high-trust collaboration to deliver mission-critical products with consistent security compliance and SLA attainment.
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/vishnuraj910) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/raj_thewanderful/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishnuraj910/) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/vishnuraj910) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/vishnuraj910) 
@@ -19,11 +21,6 @@ Staff Software Engineer/ Full Stack Tech Lead and Solution Architect
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=vishnuraj910&icon=0&color=0)](https://visitcount.itsvg.in)
-
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/vishnuraj910) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/vishnuraj910) 
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
